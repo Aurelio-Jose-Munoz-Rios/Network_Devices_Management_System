@@ -25,15 +25,6 @@ This project models a small network inventory and routing management system with
 - **Environment:** XAMPP
 - **Connector:** `mysql-connector-python`
 
-## Project structure
-
-```text
-.
-├── Main.py
-├── Database_connection.py
-├── Network_device_dao.py
-└── Network_devices_model.py
-```
 
 ## Database design
 
