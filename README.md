@@ -24,7 +24,6 @@ This project models a small network inventory and routing management system with
 - **Database:** MySQL / MariaDB
 - **Environment:** XAMPP
 - **Connector:** `mysql-connector-python`
-- **Modeling:** UML + ER diagram with Mermaid
 
 ## Project structure
 
