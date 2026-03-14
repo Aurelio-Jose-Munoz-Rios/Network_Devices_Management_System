@@ -144,6 +144,8 @@ erDiagram
 ## Screenshots
 assets/screenshots/menu.png
 
+![Application Menu](assets/screenshots/menu.png)
+
 ### Menu and Companies
 
 
