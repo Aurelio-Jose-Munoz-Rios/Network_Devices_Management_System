@@ -157,15 +157,6 @@ erDiagram
 
 ![UML Diagram](docs/images/uml-diagram.png)
 
-## Example SQL relationships
-
-The system uses foreign keys to preserve integrity across the tables:
-
-- `NetworkDevice.company_id -> Company.id`
-- `Router.id -> NetworkDevice.id`
-- `Modem.id -> NetworkDevice.id`
-- `SwitchDevice.id -> NetworkDevice.id`
-- `Route.router_id -> Router.id`
 
 ## How to run the project
 
