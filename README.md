@@ -185,34 +185,6 @@ pip install mysql-connector-python
 python Main.py
 ```
 
-## Main menu modules
-
-The console application is organized into these sections:
-
-- Company
-- Router
-- Modem
-- Switch
-- Route
-- Queries
-
-## Sample analytical queries supported
-
-- Devices with their company
-- Route details by router
-- Companies without routers
-- Device count by company
-- Most used interface
-- Average route metric by router
-- Device count by company and device type
-- Maximum route metric per router
-
-## Notes
-
-- The database creation is performed manually in MySQL/MariaDB through XAMPP
-- The Python application focuses on connection handling, CRUD operations, and queries
-- The design follows an object-oriented model plus a DAO-based persistence layer
-
 ## Author
 
 Add your name here.
