@@ -187,4 +187,6 @@ python Main.py
 
 ## Author
 
+- `Aurelio Muñoz`
+- `Victor Chavarro`
 Add your name here.
