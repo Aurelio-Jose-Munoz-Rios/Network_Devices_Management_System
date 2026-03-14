@@ -143,47 +143,9 @@ erDiagram
 
 ## Screenshots
 
-> Recommended folder in your GitHub repository: `docs/images/`
 
-### Application screenshot
+### Menu and Companies
 
-![Application Menu](docs/images/app-menu.png)
-
-### Database structure screenshot
-
-![Database Structure](docs/images/database-structure.png)
-
-### UML / database diagram screenshot
-
-![UML Diagram](docs/images/uml-diagram.png)
-
-
-## How to run the project
-
-### 1. Start MySQL from XAMPP
-Open XAMPP and start the MySQL service.
-
-### 2. Create the database manually
-Use the MySQL console from XAMPP and run your SQL script to create:
-
-- `Company`
-- `NetworkDevice`
-- `Router`
-- `Modem`
-- `SwitchDevice`
-- `Route`
-
-### 3. Install dependency
-
-```bash
-pip install mysql-connector-python
-```
-
-### 4. Run the application
-
-```bash
-python Main.py
-```
 
 ## Author
 
