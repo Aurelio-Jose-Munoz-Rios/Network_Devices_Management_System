@@ -147,7 +147,7 @@ erDiagram
 ### Menu and Companies
 
 
-## Author
+## Authors
 
 - `Aurelio Muñoz`
 - `Victor Chavarro`
