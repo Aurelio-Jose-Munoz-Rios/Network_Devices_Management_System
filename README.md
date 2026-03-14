@@ -26,19 +26,6 @@ This project models a small network inventory and routing management system with
 - **Connector:** `mysql-connector-python`
 
 
-## Database design
-
-The database is designed around a base entity called `NetworkDevice`, which stores common device fields, while `Router`, `Modem`, and `SwitchDevice` store specialized attributes.
-
-### Core entities
-
-- **Company**: stores company information
-- **NetworkDevice**: base table for all devices
-- **Router**: specialized device with routing protocol
-- **Modem**: specialized device with modulation and speed attributes
-- **SwitchDevice**: specialized device with ports and switching capacity
-- **Route**: routing entries linked to routers
-
 ## Relationships
 
 - One **Company** can own many **NetworkDevice** records
