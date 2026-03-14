@@ -142,7 +142,7 @@ erDiagram
 ```
 
 ## Screenshots
-assets/screenshots/menu.png
+
 ### Menu
 ![Application Menu](assets/screenshots/menu.png)
 
@@ -151,9 +151,6 @@ assets/screenshots/menu.png
 
 ## Tablas y dispositivos 
 ![Application Tablas](assets/screenshots/tablas_e_instancias.png)
-
-### Menu and Companies
-
 
 ## Authors
 
