@@ -149,7 +149,7 @@ erDiagram
 ## Queries
 ![Application Queries](assets/screenshots/queries.png)
 
-## Tablas y dispositivos 
+## Tables and Devices 
 ![Application Tablas](assets/screenshots/tablas_e_instancias.png)
 
 ## Authors
