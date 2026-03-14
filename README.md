@@ -142,7 +142,7 @@ erDiagram
 ```
 
 ## Screenshots
-
+assets/screenshots/menu.png
 
 ### Menu and Companies
 
