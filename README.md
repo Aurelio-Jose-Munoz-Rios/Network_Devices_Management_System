@@ -145,6 +145,8 @@ erDiagram
 assets/screenshots/menu.png
 
 ![Application Menu](assets/screenshots/menu.png)
+![Application Queries](assets/screenshots/queries.png)
+![Application Tablas](assets/screenshots/tablas_e_instancias.png)
 
 ### Menu and Companies
 
