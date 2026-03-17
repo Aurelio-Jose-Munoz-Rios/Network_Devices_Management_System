@@ -16,7 +16,7 @@ This project models a small network inventory and routing management system with
   - Switches
 - Manage routing entries associated with routers
 - Run analytical queries directly from the Python application
-- Work with a normalized relational database using foreign keys
+- Work with a normalized relational database using foreign keys.
 
 ## Tech stack
 
