@@ -1,10 +1,5 @@
 # Network Devices Management System
 
-A console-based Python application for managing network infrastructure data using **MySQL/MariaDB**.  
-The system supports CRUD operations for **Company**, **Router**, **Modem**, **Switch**, and **Route**, and includes analytical SQL queries to inspect the network environment.
-
-## Overview
-
 This project models a small network inventory and routing management system with an object-oriented design in Python and a relational database in MySQL/MariaDB.
 
 ### Main capabilities
